@@ -33,7 +33,7 @@ For Better GPS and GSM Signals, place bot in an open field (within server's rang
 **Note**
 -
 If students are asking for new tyres, please spend some attention to them, buy new tyres!!!
-Don't Stay Stuck over Image Processing Part. IOT is not all only about Image Processing!!! Image Processing is just one small part of it, please focus on other aspacts of it too.
+Don't Stay Stuck over Image Processing Part. IOT is not all only about Image Processing!!! Image Processing is just one small part of it, please focus on other aspects of it too.
 if you don't get it, forget it, since this message is not for you ;-P
 
 Sequence diagram 
@@ -187,4 +187,20 @@ Pin configuration:
 		1. compass:
 		SCL 22
 		SDA 21
+  
+Sensors And Components Used:
+=
+ 1. Esp32 for controlling BOT
+ 2. ESP32Cam for Camera
+ 3. Neo 6m GPS Sensor
+ 4. SIM 800L for GSM
+ 5. QMC5883/HMC5883 Compass Sensor
+ 6. LM2596 Buck Converter
+ 7. 4 channel Logic Level Shifter
+
+To Do...
+=
+ 1. Make use of GSM to send bot status to user
+ 2. Make use of GPS to make bot move automatically over decided track
+ 3. make server online and global
 
