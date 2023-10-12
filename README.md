@@ -11,8 +11,33 @@ Created by Aditya Pathak, last update: 10th oct 2023
 
 [Link to Server Files](https://github.com/AdityaPathak09/Final-Year-Project-Image-Processing-Server)
 
-### Sequence diagram 
+[Link to Project Report](https://github.com/AdityaPathak09/FinalYearProjectDocumentation)
 
+[Link to Google Colab file (example of creating costom model from dataset)](https://github.com/AdityaPathak09/College-Image-Processing/blob/main/CollegePlantIPModel.ipynb)
+
+[Link to Project PCB Files](https://github.com/AdityaPathak09/FinalYearProjectDocumentation)
+
+How to use???
+=
+ 1. First, create Mobile Hotsopt from your server (laptop) by SSID: "Desktop_Adi" and Password "1234567890" (Or channge it in [Camera Code](https://github.com/AdityaPathak09/CamCode))
+ 2. Connect your Mobile Phone on same WiFi Network
+ 3. Run Server. Copy IP Address of Server
+ 4. Turn on PestBot
+ 5. Run Mobile App, enter 4 octaves of IP address, press Connect
+ 6. Wait for camera stream. You can also check on Server Console, if the camera sent its stream link or not
+ 7. Feel Free to Play with Pest Bot ;-p
+
+For Better GPS and GSM Signals, place bot in an open field (within server's range!!!)
+
+
+**Note**
+-
+If students are asking for new tyres, please spend some attention to them, buy new tyres!!!
+Don't Stay Stuck over Image Processing Part. IOT is not all only about Image Processing!!! Image Processing is just one small part of it, please focus on other aspacts of it too.
+if you don't get it, forget it, since this message is not for you ;-P
+
+Sequence diagram 
+=
 ```mermaid
 
 sequenceDiagram
