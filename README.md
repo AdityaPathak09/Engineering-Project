@@ -32,9 +32,10 @@ For Better GPS and GSM Signals, place bot in an open field (within server's rang
 
 **Note**
 -
-If students are asking for new tyres, please spend some attention to them, buy new tyres!!!
-Don't Stay Stuck over Image Processing Part. IOT is not all only about Image Processing!!! Image Processing is just one small part of it, please focus on other aspects of it too.
-if you don't get it, forget it, since this message is not for you ;-P
+ 1. Camera and Mobile Phone should be connected to same network
+ 2. If students are asking for new tyres, please spend some attention to them, buy new tyres!!!
+    Don't Stay Stuck over Image Processing Part. IOT is not all only about Image Processing!!! Image Processing is just one small part of it, please focus on other aspects of it too.
+    if you don't get it, forget it, since this message is not for you ;-P
 
 Sequence diagram 
 =
