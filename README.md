@@ -1,5 +1,5 @@
 # Engineering-Project
-This is the collection of all repository used for the project. (Android, Camera, Controller, Server, PCB, Documentation)
+This is the collection of all the repositories used for the project. (Android, Camera, Controller, Server, PCB, Documentation)
 
 Created by Aditya Pathak, last update: 10th oct 2023
 
