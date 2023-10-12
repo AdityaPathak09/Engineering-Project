@@ -15,7 +15,7 @@ Created by Aditya Pathak, last update: 10th oct 2023
 
 [Link to Google Colab file (example of creating costom model from dataset)](https://github.com/AdityaPathak09/College-Image-Processing/blob/main/CollegePlantIPModel.ipynb)
 
-[Link to Project PCB Files](https://github.com/AdityaPathak09/FinalYearProjectDocumentation)
+[Link to Project PCB Files](https://github.com/AdityaPathak09/BotCode/tree/main/PestBot)
 
 How to use???
 =
