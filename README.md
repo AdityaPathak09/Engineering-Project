@@ -161,7 +161,7 @@ Controlling instructions:
     	backedge: 13
     	clickImage: 14
         get 1st octave of Server IP: 15
-	get 2nd octave of Server IP: 16
+	    get 2nd octave of Server IP: 16
         get 3rd octave of Server IP: 17
         get 4th octave of Server IP and send IP to Camera: 18
 
