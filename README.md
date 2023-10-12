@@ -1,5 +1,5 @@
 # Engineering-Project
-This is common repo bundulling all files of the project. (Android, Camera, Controller, Server)
+This is common repo bundulling all files of the project. (Android, Camera, Controller, Server, PCB, Documentation)
 
 Created by Aditya Pathak, last update: 10th oct 2023
 
