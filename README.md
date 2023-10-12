@@ -160,6 +160,11 @@ Controlling instructions:
     	backcentre: 12
     	backedge: 13
     	clickImage: 14
+        get 1st octave of Server IP: 15
+	get 2nd octave of Server IP: 16
+        get 3rd octave of Server IP: 17
+        get 4th octave of Server IP and send IP to Camera: 18
+
 
 Pin configuration:
 =
@@ -173,7 +178,7 @@ Pin configuration:
     	pump1 5
     	pump2 18
     	servoPincam 15
-
+        
 ### UART:
 		gpsRX 34
 		gpsTX 4
